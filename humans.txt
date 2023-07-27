@@ -1,0 +1,21 @@
+humanstxt.org
+
+/* TEAM */
+
+    <role>: <name>
+    Contact: <contact (mail, form, ...)>
+    Twitter: <twitter>
+    Location: <location>
+
+
+/* THANKS */
+
+    <name>
+
+
+/* SITE */
+
+    Last update : AAAA/MM/JJ
+    Standards: HTML5, CSS3, SCSS, ...
+    Components: ...
+    Software: Visual Studio Code, ...
