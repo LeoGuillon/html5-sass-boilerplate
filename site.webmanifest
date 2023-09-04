@@ -1,12 +1,23 @@
 {
-  "short_name": "",
+  "lang": "en",
   "name": "",
-  "icons": [{
-    "src": "icon.png",
-    "type": "image/png",
-    "sizes": "192x192"
-  }],
+  "short_name": "",
   "start_url": "/?utm_source=homescreen",
   "background_color": "#fafafa",
-  "theme_color": "#fafafa"
+  "theme_color": "#fafafa",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "72x72 96x96 128x128 256x256"
+    },{
+      "src": "/icon.svg",
+      "type": "images/svg+xml",
+      "sizes": "257x257"
+    }
+  ]
 }
